@@ -1,0 +1,55 @@
+body { background-color:#ffffff; 
+    scrollbar-3dlight-color:#C0C0C0;
+	scrollbar-darkshadow-color:#C0C0C0;
+	scrollbar-arrow-color:#999999;
+	scrollbar-face-color:#DDDDDD;
+	scrollbar-highlight-color:#DDDDDD;
+	scrollbar-shadow-color:#DDDDDD;
+	scrollbar-track-color:#E9E9E9;
+}
+
+/* ###### Use for All ####### */
+#mainwrapper {
+width:100%;
+height:auto;
+margin:0 auto;
+/*background-color:#C0C0C0;*/
+}
+
+#sitewrapper {
+width:1000px;
+height:auto;
+margin:0 auto;
+/*background:url('../images/back.png') repeat-x;*/
+/*background:url('../images/bak11a.png') no-repeat;*/
+background:url('../images/land3.jpg');   /*bak11a.png*/
+/*background-color:#FFFFFF;*/
+min-height: 750px;
+
+/*display:block;
+position:absolute;
+background-repeat:no-repeat;
+background-size: 100% 100%;*/
+/*    width:122px;
+    height:148px;
+    float:right;*/
+ /*   bottom:0;
+    right:0;*/
+position:relative;
+}
+
+#enterbtn {/* background-color:#FF0000;*/
+width:283px; height:131px; border:0px solid #FF0000; margin:0 auto;
+/*background:url('../images/back.png') repeat-x;*/
+/*background:url('../images/bak11a.png') no-repeat;*/
+background:url('../images/enter_button.png');   /*bak11a.png*/
+/*background-color:#FFFFFF;*/
+position:absolute; top:50%; margin-top:-7em; margin-left:22em;
+}
+
+
+
+
+
+
+
